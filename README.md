@@ -1,0 +1,14 @@
+# user 12 S0RCS32.41-10-19-14 ab266e release-keys
+- manufacturer: motorola
+- platform: bengal
+- codename: caprip
+- flavor: user
+- release: 12
+- id: S0RCS32.41-10-19-14
+- incremental: ab266e
+- tags: release-keys
+- fingerprint: motorola/caprip_retail/caprip:11/S0RCS32.41-10-19-14/ab266e:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-12-S0RCS32.41-10-19-14-ab266e-release-keys
+- repo: motorola_caprip_dump
